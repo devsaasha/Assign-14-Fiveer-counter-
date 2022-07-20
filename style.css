@@ -1,0 +1,6 @@
+.fiveer{
+    flex:1;
+}
+.fiveer .my-3{
+    gap:5px
+}
